@@ -1,0 +1,393 @@
+YEAR,City,Province,TOTAL CRIME SEVERITY INDEX,VIOLENT CRIME SEVERITY INDEX,NON-VIOLENT CRIME SEVERITY INDEX,YOUTH CRIME SEVERITY INDEX,YOUTH VIOLENT CRIME SEVERITY INDEX,YOUTH NON-VIOLENT CRIME SEVERITY INDEX
+12/31/2017 12:00:00 AM,Amherst, Nova Scotia,132,118,137,0,0,0
+12/31/2016 12:00:00 AM,Amherst, Nova Scotia,101,78,109,0,0,0
+12/31/2015 12:00:00 AM,Amherst, Nova Scotia,93,68,102,0,0,0
+12/31/2014 12:00:00 AM,Amherst, Nova Scotia,91,102,87,0,0,0
+12/31/2013 12:00:00 AM,Amherst, Nova Scotia,104,102,105,0,0,0
+12/31/2012 12:00:00 AM,Amherst, Nova Scotia,113,120,110,0,0,0
+12/31/2011 12:00:00 AM,Amherst, Nova Scotia,107,90,113,0,0,0
+12/31/2010 12:00:00 AM,Amherst, Nova Scotia,110,123,105,0,0,0
+12/31/2017 12:00:00 AM,Annapolis County, Nova Scotia,58,62,56,0,0,0
+12/31/2016 12:00:00 AM,Annapolis County, Nova Scotia,69,64,70,0,0,0
+12/31/2015 12:00:00 AM,Annapolis County, Nova Scotia,63,54,66,0,0,0
+12/31/2014 12:00:00 AM,Annapolis County, Nova Scotia,61,52,64,0,0,0
+12/31/2013 12:00:00 AM,Annapolis County, Nova Scotia,74,51,82,0,0,0
+12/31/2012 12:00:00 AM,Annapolis County, Nova Scotia,92,73,98,0,0,0
+12/31/2011 12:00:00 AM,Annapolis County, Nova Scotia,77,60,83,0,0,0
+12/31/2010 12:00:00 AM,Annapolis County, Nova Scotia,82,67,88,0,0,0
+12/31/2017 12:00:00 AM,Annapolis Royal, Nova Scotia,0,0,0,0,0,0
+12/31/2016 12:00:00 AM,Annapolis Royal, Nova Scotia,0,0,0,0,0,0
+12/31/2015 12:00:00 AM,Annapolis Royal, Nova Scotia,0,0,0,0,0,0
+12/31/2014 12:00:00 AM,Annapolis Royal, Nova Scotia,0,0,0,0,0,0
+12/31/2013 12:00:00 AM,Annapolis Royal, Nova Scotia,0,0,0,0,0,0
+12/31/2012 12:00:00 AM,Annapolis Royal, Nova Scotia,0,0,0,0,0,0
+12/31/2011 12:00:00 AM,Annapolis Royal, Nova Scotia,0,0,0,0,0,0
+12/31/2010 12:00:00 AM,Annapolis Royal, Nova Scotia,0,0,0,0,0,0
+12/31/2017 12:00:00 AM,Antigonish County, Nova Scotia,43,46,43,0,0,0
+12/31/2016 12:00:00 AM,Antigonish County, Nova Scotia,40,45,39,0,0,0
+12/31/2015 12:00:00 AM,Antigonish County, Nova Scotia,46,47,45,0,0,0
+12/31/2014 12:00:00 AM,Antigonish County, Nova Scotia,41,41,42,0,0,0
+12/31/2013 12:00:00 AM,Antigonish County, Nova Scotia,40,42,40,0,0,0
+12/31/2012 12:00:00 AM,Antigonish County, Nova Scotia,41,41,41,0,0,0
+12/31/2011 12:00:00 AM,Antigonish County, Nova Scotia,29,16,34,0,0,0
+12/31/2010 12:00:00 AM,Antigonish County, Nova Scotia,39,35,40,0,0,0
+12/31/2017 12:00:00 AM,Antigonish, Nova Scotia,134,154,126,0,0,0
+12/31/2016 12:00:00 AM,Antigonish, Nova Scotia,115,98,121,0,0,0
+12/31/2015 12:00:00 AM,Antigonish, Nova Scotia,96,88,99,0,0,0
+12/31/2014 12:00:00 AM,Antigonish, Nova Scotia,90,83,92,0,0,0
+12/31/2013 12:00:00 AM,Antigonish, Nova Scotia,100,127,89,0,0,0
+12/31/2012 12:00:00 AM,Antigonish, Nova Scotia,129,156,120,0,0,0
+12/31/2011 12:00:00 AM,Antigonish, Nova Scotia,131,177,114,0,0,0
+12/31/2010 12:00:00 AM,Antigonish, Nova Scotia,149,221,122,0,0,0
+12/31/2017 12:00:00 AM,Barrington, Nova Scotia,50,61,46,0,0,0
+12/31/2016 12:00:00 AM,Barrington, Nova Scotia,51,72,43,0,0,0
+12/31/2015 12:00:00 AM,Barrington, Nova Scotia,37,51,32,0,0,0
+12/31/2014 12:00:00 AM,Barrington, Nova Scotia,42,46,41,0,0,0
+12/31/2013 12:00:00 AM,Barrington, Nova Scotia,54,51,55,0,0,0
+12/31/2012 12:00:00 AM,Barrington, Nova Scotia,54,48,56,0,0,0
+12/31/2011 12:00:00 AM,Barrington, Nova Scotia,59,56,60,0,0,0
+12/31/2010 12:00:00 AM,Barrington, Nova Scotia,58,53,60,0,0,0
+12/31/2017 12:00:00 AM,Bridgewater, Nova Scotia,55,68,50,0,0,0
+12/31/2016 12:00:00 AM,Bridgewater, Nova Scotia,60,57,60,0,0,0
+12/31/2015 12:00:00 AM,Bridgewater, Nova Scotia,82,114,70,0,0,0
+12/31/2014 12:00:00 AM,Bridgewater, Nova Scotia,55,39,61,0,0,0
+12/31/2013 12:00:00 AM,Bridgewater, Nova Scotia,71,55,77,0,0,0
+12/31/2012 12:00:00 AM,Bridgewater, Nova Scotia,86,86,85,0,0,0
+12/31/2011 12:00:00 AM,Bridgewater, Nova Scotia,93,86,96,0,0,0
+12/31/2010 12:00:00 AM,Bridgewater, Nova Scotia,85,96,81,0,0,0
+12/31/2017 12:00:00 AM,Canadian National Railway Police, Nova Scotia,0,0,0,0,0,0
+12/31/2016 12:00:00 AM,Canadian National Railway Police, Nova Scotia,0,0,0,0,0,0
+12/31/2015 12:00:00 AM,Canadian National Railway Police, Nova Scotia,0,0,0,0,0,0
+12/31/2014 12:00:00 AM,Canadian National Railway Police, Nova Scotia,0,0,0,0,0,0
+12/31/2013 12:00:00 AM,Canadian National Railway Police, Nova Scotia,0,0,0,0,0,0
+12/31/2012 12:00:00 AM,Canadian National Railway Police, Nova Scotia,0,0,0,0,0,0
+12/31/2011 12:00:00 AM,Canadian National Railway Police, Nova Scotia,0,0,0,0,0,0
+12/31/2010 12:00:00 AM,Canadian National Railway Police, Nova Scotia,0,0,0,0,0,0
+12/31/2017 12:00:00 AM,Cape Breton Region, Nova Scotia,59,66,57,0,0,0
+12/31/2016 12:00:00 AM,Cape Breton Region, Nova Scotia,48,46,49,0,0,0
+12/31/2015 12:00:00 AM,Cape Breton Region, Nova Scotia,61,62,61,0,0,0
+12/31/2014 12:00:00 AM,Cape Breton Region, Nova Scotia,61,50,65,0,0,0
+12/31/2013 12:00:00 AM,Cape Breton Region, Nova Scotia,59,49,62,0,0,0
+12/31/2012 12:00:00 AM,Cape Breton Region, Nova Scotia,73,64,76,0,0,0
+12/31/2011 12:00:00 AM,Cape Breton Region, Nova Scotia,65,56,68,0,0,0
+12/31/2010 12:00:00 AM,Cape Breton Region, Nova Scotia,67,58,70,0,0,0
+12/31/2017 12:00:00 AM,Colchester County, Nova Scotia,59,71,55,0,0,0
+12/31/2016 12:00:00 AM,Colchester County, Nova Scotia,52,42,56,0,0,0
+12/31/2015 12:00:00 AM,Colchester County, Nova Scotia,48,38,52,0,0,0
+12/31/2014 12:00:00 AM,Colchester County, Nova Scotia,62,53,65,0,0,0
+12/31/2013 12:00:00 AM,Colchester County, Nova Scotia,71,73,70,0,0,0
+12/31/2012 12:00:00 AM,Colchester County, Nova Scotia,62,33,73,0,0,0
+12/31/2011 12:00:00 AM,Colchester County, Nova Scotia,65,39,74,0,0,0
+12/31/2010 12:00:00 AM,Colchester County, Nova Scotia,55,28,65,0,0,0
+12/31/2017 12:00:00 AM,Cumberland County, Nova Scotia,60,41,66,0,0,0
+12/31/2016 12:00:00 AM,Cumberland County, Nova Scotia,65,56,69,0,0,0
+12/31/2015 12:00:00 AM,Cumberland County, Nova Scotia,54,44,58,0,0,0
+12/31/2014 12:00:00 AM,Cumberland County, Nova Scotia,67,37,78,0,0,0
+12/31/2013 12:00:00 AM,Cumberland County, Nova Scotia,52,35,58,0,0,0
+12/31/2012 12:00:00 AM,Cumberland County, Nova Scotia,46,36,50,0,0,0
+12/31/2011 12:00:00 AM,Cumberland County, Nova Scotia,35,21,40,0,0,0
+12/31/2010 12:00:00 AM,Cumberland County, Nova Scotia,26,18,29,0,0,0
+12/31/2017 12:00:00 AM,Digby, Nova Scotia,0,0,0,0,0,0
+12/31/2016 12:00:00 AM,Digby, Nova Scotia,0,0,0,0,0,0
+12/31/2015 12:00:00 AM,Digby, Nova Scotia,0,0,0,0,0,0
+12/31/2014 12:00:00 AM,Digby, Nova Scotia,0,0,0,0,0,0
+12/31/2013 12:00:00 AM,Digby, Nova Scotia,0,0,0,0,0,0
+12/31/2012 12:00:00 AM,Digby, Nova Scotia,65,85,57,0,0,0
+12/31/2011 12:00:00 AM,Digby, Nova Scotia,72,108,59,0,0,0
+12/31/2010 12:00:00 AM,Digby, Nova Scotia,96,68,107,0,0,0
+12/31/2017 12:00:00 AM,Digby, Nova Scotia,85,105,78,0,0,0
+12/31/2016 12:00:00 AM,Digby, Nova Scotia,88,123,75,0,0,0
+12/31/2015 12:00:00 AM,Digby, Nova Scotia,78,72,80,0,0,0
+12/31/2014 12:00:00 AM,Digby, Nova Scotia,64,50,69,0,0,0
+12/31/2013 12:00:00 AM,Digby, Nova Scotia,78,47,89,0,0,0
+12/31/2012 12:00:00 AM,Digby, Nova Scotia,82,63,89,0,0,0
+12/31/2011 12:00:00 AM,Digby, Nova Scotia,81,64,86,0,0,0
+12/31/2010 12:00:00 AM,Digby, Nova Scotia,60,63,59,0,0,0
+12/31/2017 12:00:00 AM,Enfield (East Hants), Nova Scotia,61,77,55,0,0,0
+12/31/2016 12:00:00 AM,Enfield (East Hants), Nova Scotia,48,36,52,0,0,0
+12/31/2015 12:00:00 AM,Enfield (East Hants), Nova Scotia,54,58,52,0,0,0
+12/31/2014 12:00:00 AM,Enfield (East Hants), Nova Scotia,61,52,65,0,0,0
+12/31/2013 12:00:00 AM,Enfield (East Hants), Nova Scotia,59,37,67,0,0,0
+12/31/2012 12:00:00 AM,Enfield (East Hants), Nova Scotia,69,80,65,0,0,0
+12/31/2011 12:00:00 AM,Enfield (East Hants), Nova Scotia,49,32,55,0,0,0
+12/31/2010 12:00:00 AM,Enfield (East Hants), Nova Scotia,79,113,67,0,0,0
+12/31/2017 12:00:00 AM,Eskasoni, Nova Scotia,228,240,224,0,0,0
+12/31/2016 12:00:00 AM,Eskasoni, Nova Scotia,235,253,227,0,0,0
+12/31/2015 12:00:00 AM,Eskasoni, Nova Scotia,248,352,209,0,0,0
+12/31/2014 12:00:00 AM,Eskasoni, Nova Scotia,258,213,274,0,0,0
+12/31/2013 12:00:00 AM,Eskasoni, Nova Scotia,310,324,305,0,0,0
+12/31/2012 12:00:00 AM,Eskasoni, Nova Scotia,347,384,332,0,0,0
+12/31/2011 12:00:00 AM,Eskasoni, Nova Scotia,280,303,271,0,0,0
+12/31/2010 12:00:00 AM,Eskasoni, Nova Scotia,245,285,230,0,0,0
+12/31/2017 12:00:00 AM,Guysborough County, Nova Scotia,112,268,55,0,0,0
+12/31/2016 12:00:00 AM,Guysborough County, Nova Scotia,49,45,50,0,0,0
+12/31/2015 12:00:00 AM,Guysborough County, Nova Scotia,46,37,50,0,0,0
+12/31/2014 12:00:00 AM,Guysborough County, Nova Scotia,42,51,38,0,0,0
+12/31/2013 12:00:00 AM,Guysborough County, Nova Scotia,55,59,53,0,0,0
+12/31/2012 12:00:00 AM,Guysborough County, Nova Scotia,39,28,42,0,0,0
+12/31/2011 12:00:00 AM,Guysborough County, Nova Scotia,39,45,36,0,0,0
+12/31/2010 12:00:00 AM,Guysborough County, Nova Scotia,53,47,56,0,0,0
+12/31/2017 12:00:00 AM,Halifax (Division Headquarters 1), Nova Scotia,0,0,0,0,0,0
+12/31/2016 12:00:00 AM,Halifax (Division Headquarters 1), Nova Scotia,0,0,0,0,0,0
+12/31/2015 12:00:00 AM,Halifax (Division Headquarters 1), Nova Scotia,0,0,0,0,0,0
+12/31/2014 12:00:00 AM,Halifax (Division Headquarters 1), Nova Scotia,0,0,0,0,0,0
+12/31/2013 12:00:00 AM,Halifax (Division Headquarters 1), Nova Scotia,0,0,0,0,0,0
+12/31/2012 12:00:00 AM,Halifax (Division Headquarters 1), Nova Scotia,0,0,0,0,0,0
+12/31/2011 12:00:00 AM,Halifax (Division Headquarters 1), Nova Scotia,0,0,0,0,0,0
+12/31/2010 12:00:00 AM,Halifax (Division Headquarters 1), Nova Scotia,0,0,0,0,0,0
+12/31/2017 12:00:00 AM,Halifax (Division Headquarters 2), Nova Scotia,0,0,0,0,0,0
+12/31/2016 12:00:00 AM,Halifax (Division Headquarters 2), Nova Scotia,0,0,0,0,0,0
+12/31/2015 12:00:00 AM,Halifax (Division Headquarters 2), Nova Scotia,0,0,0,0,0,0
+12/31/2014 12:00:00 AM,Halifax (Division Headquarters 2), Nova Scotia,0,0,0,0,0,0
+12/31/2013 12:00:00 AM,Halifax (Division Headquarters 2), Nova Scotia,0,0,0,0,0,0
+12/31/2012 12:00:00 AM,Halifax (Division Headquarters 2), Nova Scotia,0,0,0,0,0,0
+12/31/2011 12:00:00 AM,Halifax (Division Headquarters 2), Nova Scotia,0,0,0,0,0,0
+12/31/2010 12:00:00 AM,Halifax (Division Headquarters 2), Nova Scotia,0,0,0,0,0,0
+12/31/2017 12:00:00 AM,Halifax Metropolitain Area, Nova Scotia,64,87,56,0,0,0
+12/31/2016 12:00:00 AM,Halifax Metropolitain Area, Nova Scotia,62,80,55,0,0,0
+12/31/2015 12:00:00 AM,Halifax Metropolitain Area, Nova Scotia,64,82,57,0,0,0
+12/31/2014 12:00:00 AM,Halifax Metropolitain Area, Nova Scotia,66,74,63,0,0,0
+12/31/2013 12:00:00 AM,Halifax Metropolitain Area, Nova Scotia,68,84,62,0,0,0
+12/31/2012 12:00:00 AM,Halifax Metropolitain Area, Nova Scotia,76,94,69,0,0,0
+12/31/2011 12:00:00 AM,Halifax Metropolitain Area, Nova Scotia,89,115,79,0,0,0
+12/31/2010 12:00:00 AM,Halifax Metropolitain Area, Nova Scotia,98,107,94,0,0,0
+12/31/2017 12:00:00 AM,Halifax (offshore), Nova Scotia,0,0,0,0,0,0
+12/31/2016 12:00:00 AM,Halifax (offshore), Nova Scotia,0,0,0,0,0,0
+12/31/2015 12:00:00 AM,Halifax (offshore), Nova Scotia,0,0,0,0,0,0
+12/31/2014 12:00:00 AM,Halifax (offshore), Nova Scotia,0,0,0,0,0,0
+12/31/2013 12:00:00 AM,Halifax (offshore), Nova Scotia,0,0,0,0,0,0
+12/31/2012 12:00:00 AM,Halifax (offshore), Nova Scotia,0,0,0,0,0,0
+12/31/2011 12:00:00 AM,Halifax (offshore), Nova Scotia,0,0,0,0,0,0
+12/31/2010 12:00:00 AM,Halifax (offshore), Nova Scotia,0,0,0,0,0,0
+12/31/2017 12:00:00 AM,Indian Brook, Nova Scotia,327,422,293,0,0,0
+12/31/2016 12:00:00 AM,Indian Brook, Nova Scotia,195,288,162,0,0,0
+12/31/2015 12:00:00 AM,Indian Brook, Nova Scotia,307.41,320.52,302.01,0,0,0
+12/31/2014 12:00:00 AM,Indian Brook, Nova Scotia,352.11,540.68,282.77,0,0,0
+12/31/2013 12:00:00 AM,Indian Brook, Nova Scotia,493.2,616.15,447.44,0,0,0
+12/31/2012 12:00:00 AM,Indian Brook, Nova Scotia,491,477,495,0,0,0
+12/31/2011 12:00:00 AM,Indian Brook, Nova Scotia,487,688,413,0,0,0
+12/31/2010 12:00:00 AM,Indian Brook, Nova Scotia,669,1141,488,0,0,0
+12/31/2017 12:00:00 AM,Inverness County, Nova Scotia,82,65,88,0,0,0
+12/31/2016 12:00:00 AM,Inverness County, Nova Scotia,48,54,46,0,0,0
+12/31/2015 12:00:00 AM,Inverness County, Nova Scotia,66,48,73,0,0,0
+12/31/2014 12:00:00 AM,Inverness County, Nova Scotia,67,59,69,0,0,0
+12/31/2013 12:00:00 AM,Inverness County, Nova Scotia,65,67,64,0,0,0
+12/31/2012 12:00:00 AM,Inverness County, Nova Scotia,79,53,89,0,0,0
+12/31/2011 12:00:00 AM,Inverness County, Nova Scotia,71,40,82,0,0,0
+12/31/2010 12:00:00 AM,Inverness County, Nova Scotia,53,70,47,0,0,0
+12/31/2017 12:00:00 AM,Kentville, Nova Scotia,74,88,70,0,0,0
+12/31/2016 12:00:00 AM,Kentville, Nova Scotia,94,124,83,0,0,0
+12/31/2015 12:00:00 AM,Kentville, Nova Scotia,73,88,68,0,0,0
+12/31/2014 12:00:00 AM,Kentville, Nova Scotia,111,128,105,0,0,0
+12/31/2013 12:00:00 AM,Kentville, Nova Scotia,89,42,106,0,0,0
+12/31/2012 12:00:00 AM,Kentville, Nova Scotia,100,72,110,0,0,0
+12/31/2011 12:00:00 AM,Kentville, Nova Scotia,82,59,91,0,0,0
+12/31/2010 12:00:00 AM,Kentville, Nova Scotia,88,65,97,0,0,0
+12/31/2017 12:00:00 AM,Kings County, Nova Scotia,74,72,74,0,0,0
+12/31/2016 12:00:00 AM,Kings County, Nova Scotia,68,79,64,0,0,0
+12/31/2015 12:00:00 AM,Kings County, Nova Scotia,55,56,55,0,0,0
+12/31/2014 12:00:00 AM,Kings County, Nova Scotia,76,69,78,0,0,0
+12/31/2013 12:00:00 AM,Kings County, Nova Scotia,77,65,81,0,0,0
+12/31/2012 12:00:00 AM,Kings County, Nova Scotia,93,75,100,0,0,0
+12/31/2011 12:00:00 AM,Kings County, Nova Scotia,73,63,76,0,0,0
+12/31/2010 12:00:00 AM,Kings County, Nova Scotia,75,59,81,0,0,0
+12/31/2017 12:00:00 AM,Lunenburg County, Nova Scotia,46,42,47,0,0,0
+12/31/2016 12:00:00 AM,Lunenburg County, Nova Scotia,49,38,53,0,0,0
+12/31/2015 12:00:00 AM,Lunenburg County, Nova Scotia,52,36,57,0,0,0
+12/31/2014 12:00:00 AM,Lunenburg County, Nova Scotia,54,49,56,0,0,0
+12/31/2013 12:00:00 AM,Lunenburg County, Nova Scotia,58,45,63,0,0,0
+12/31/2012 12:00:00 AM,Lunenburg County, Nova Scotia,62,53,64,0,0,0
+12/31/2011 12:00:00 AM,Lunenburg County, Nova Scotia,63,49,68,0,0,0
+12/31/2010 12:00:00 AM,Lunenburg County, Nova Scotia,56,57,56,0,0,0
+12/31/2017 12:00:00 AM,Meteghan (Clare), Nova Scotia,30,25,32,0,0,0
+12/31/2016 12:00:00 AM,Meteghan (Clare), Nova Scotia,37,33,38,0,0,0
+12/31/2015 12:00:00 AM,Meteghan (Clare), Nova Scotia,50,30,57,0,0,0
+12/31/2014 12:00:00 AM,Meteghan (Clare), Nova Scotia,39,27,44,0,0,0
+12/31/2013 12:00:00 AM,Meteghan (Clare), Nova Scotia,43,32,47,0,0,0
+12/31/2012 12:00:00 AM,Meteghan (Clare), Nova Scotia,32,18,38,0,0,0
+12/31/2011 12:00:00 AM,Meteghan (Clare), Nova Scotia,31,25,33,0,0,0
+12/31/2010 12:00:00 AM,Meteghan (Clare), Nova Scotia,32,30,32,0,0,0
+12/31/2017 12:00:00 AM,Millbrook, Nova Scotia,0,0,0,0,0,0
+12/31/2016 12:00:00 AM,Millbrook, Nova Scotia,0,0,0,0,0,0
+12/31/2015 12:00:00 AM,Millbrook, Nova Scotia,0,0,0,0,0,0
+12/31/2014 12:00:00 AM,Millbrook, Nova Scotia,0,0,0,0,0,0
+12/31/2013 12:00:00 AM,Millbrook, Nova Scotia,0,0,0,0,0,0
+12/31/2012 12:00:00 AM,Millbrook, Nova Scotia,0,0,0,0,0,0
+12/31/2011 12:00:00 AM,Millbrook, Nova Scotia,0,0,0,0,0,0
+12/31/2010 12:00:00 AM,Millbrook, Nova Scotia,0,0,0,0,0,0
+12/31/2017 12:00:00 AM,New Glasgow Region, Nova Scotia,84,92,82,0,0,0
+12/31/2016 12:00:00 AM,New Glasgow Region, Nova Scotia,84,93,81,0,0,0
+12/31/2015 12:00:00 AM,New Glasgow Region, Nova Scotia,85,108,76,0,0,0
+12/31/2014 12:00:00 AM,New Glasgow Region, Nova Scotia,72,80,69,0,0,0
+12/31/2013 12:00:00 AM,New Glasgow Region, Nova Scotia,89,92,88,0,0,0
+12/31/2012 12:00:00 AM,New Glasgow Region, Nova Scotia,95,89,97,0,0,0
+12/31/2011 12:00:00 AM,New Glasgow Region, Nova Scotia,105,102,106,0,0,0
+12/31/2010 12:00:00 AM,New Glasgow Region, Nova Scotia,154,158,152,0,0,0
+12/31/2017 12:00:00 AM,Nova Scotia,,66,78,61,69,83,60
+12/31/2016 12:00:00 AM,Nova Scotia,,62,71,59,82,90,75
+12/31/2015 12:00:00 AM,Nova Scotia,,63,70,60,72,68,74
+12/31/2014 12:00:00 AM,Nova Scotia,,66,67,66,85,87,82
+12/31/2013 12:00:00 AM,Nova Scotia,,70,73,69,88,82,91
+12/31/2012 12:00:00 AM,Nova Scotia,,77,78,76,111,100,119
+12/31/2011 12:00:00 AM,Nova Scotia,,79,87,76,120,117,122
+12/31/2010 12:00:00 AM,Nova Scotia,,84,85,83,124,115,131
+12/31/2017 12:00:00 AM,Oxford County, Nova Scotia,0,0,0,0,0,0
+12/31/2016 12:00:00 AM,Oxford County, Nova Scotia,0,0,0,0,0,0
+12/31/2015 12:00:00 AM,Oxford County, Nova Scotia,0,0,0,0,0,0
+12/31/2014 12:00:00 AM,Oxford County, Nova Scotia,0,0,0,0,0,0
+12/31/2013 12:00:00 AM,Oxford County, Nova Scotia,0,0,0,0,0,0
+12/31/2012 12:00:00 AM,Oxford County, Nova Scotia,96,133,82,0,0,0
+12/31/2011 12:00:00 AM,Oxford County, Nova Scotia,93,66,103,0,0,0
+12/31/2010 12:00:00 AM,Oxford County, Nova Scotia,314,165,371,0,0,0
+12/31/2017 12:00:00 AM,Parrsboro, Nova Scotia,185,154,196,0,0,0
+12/31/2016 12:00:00 AM,Parrsboro, Nova Scotia,131,135,129,0,0,0
+12/31/2015 12:00:00 AM,Parrsboro, Nova Scotia,99,128,88,0,0,0
+12/31/2014 12:00:00 AM,Parrsboro, Nova Scotia,166,166,166,0,0,0
+12/31/2013 12:00:00 AM,Parrsboro, Nova Scotia,141,119,148,0,0,0
+12/31/2012 12:00:00 AM,Parrsboro, Nova Scotia,117,89,127,0,0,0
+12/31/2011 12:00:00 AM,Parrsboro, Nova Scotia,187,182,188,0,0,0
+12/31/2010 12:00:00 AM,Parrsboro, Nova Scotia,175,115,198,0,0,0
+12/31/2017 12:00:00 AM,Pictou County, Nova Scotia,45,43,46,0,0,0
+12/31/2016 12:00:00 AM,Pictou County, Nova Scotia,44,54,40,0,0,0
+12/31/2015 12:00:00 AM,Pictou County, Nova Scotia,42,48,40,0,0,0
+12/31/2014 12:00:00 AM,Pictou County, Nova Scotia,45,40,46,0,0,0
+12/31/2013 12:00:00 AM,Pictou County, Nova Scotia,52,44,55,0,0,0
+12/31/2012 12:00:00 AM,Pictou County, Nova Scotia,52,31,60,0,0,0
+12/31/2011 12:00:00 AM,Pictou County, Nova Scotia,50,61,46,0,0,0
+12/31/2010 12:00:00 AM,Pictou County, Nova Scotia,51,45,53,0,0,0
+12/31/2017 12:00:00 AM,Pictou, Nova Scotia,74,74,73,0,0,0
+12/31/2016 12:00:00 AM,Pictou, Nova Scotia,81,50,91,0,0,0
+12/31/2015 12:00:00 AM,Pictou, Nova Scotia,65,87,56,0,0,0
+12/31/2014 12:00:00 AM,Pictou, Nova Scotia,90,70,97,0,0,0
+12/31/2013 12:00:00 AM,Pictou, Nova Scotia,100,79,107,0,0,0
+12/31/2012 12:00:00 AM,Pictou, Nova Scotia,84,102,77,0,0,0
+12/31/2011 12:00:00 AM,Pictou, Nova Scotia,92,106,87,0,0,0
+12/31/2010 12:00:00 AM,Pictou, Nova Scotia,95,66,106,0,0,0
+12/31/2017 12:00:00 AM,Port Hawkesbury, Nova Scotia,0,0,0,0,0,0
+12/31/2016 12:00:00 AM,Port Hawkesbury, Nova Scotia,0,0,0,0,0,0
+12/31/2015 12:00:00 AM,Port Hawkesbury, Nova Scotia,0,0,0,0,0,0
+12/31/2014 12:00:00 AM,Port Hawkesbury, Nova Scotia,0,0,0,0,0,0
+12/31/2013 12:00:00 AM,Port Hawkesbury, Nova Scotia,0,0,0,0,0,0
+12/31/2012 12:00:00 AM,Port Hawkesbury, Nova Scotia,75,129,55,0,0,0
+12/31/2011 12:00:00 AM,Port Hawkesbury, Nova Scotia,96,158,73,0,0,0
+12/31/2010 12:00:00 AM,Port Hawkesbury, Nova Scotia,139,114,148,0,0,0
+12/31/2017 12:00:00 AM,Port of Halifax, Nova Scotia,0,0,0,0,0,0
+12/31/2016 12:00:00 AM,Port of Halifax, Nova Scotia,0,0,0,0,0,0
+12/31/2015 12:00:00 AM,Port of Halifax, Nova Scotia,0,0,0,0,0,0
+12/31/2014 12:00:00 AM,Port of Halifax, Nova Scotia,0,0,0,0,0,0
+12/31/2013 12:00:00 AM,Port of Halifax, Nova Scotia,0,0,0,0,0,0
+12/31/2012 12:00:00 AM,Port of Halifax, Nova Scotia,0,0,0,0,0,0
+12/31/2011 12:00:00 AM,Port of Halifax, Nova Scotia,0,0,0,0,0,0
+12/31/2010 12:00:00 AM,Port of Halifax, Nova Scotia,0,0,0,0,0,0
+12/31/2017 12:00:00 AM,Queens County, Nova Scotia,59,49,63,0,0,0
+12/31/2016 12:00:00 AM,Queens County, Nova Scotia,52,56,51,0,0,0
+12/31/2015 12:00:00 AM,Queens County, Nova Scotia,61,47,66,0,0,0
+12/31/2014 12:00:00 AM,Queens County, Nova Scotia,64,53,68,0,0,0
+12/31/2013 12:00:00 AM,Queens County, Nova Scotia,71,62,75,0,0,0
+12/31/2012 12:00:00 AM,Queens County, Nova Scotia,74,52,82,0,0,0
+12/31/2011 12:00:00 AM,Queens County, Nova Scotia,70,106,56,0,0,0
+12/31/2010 12:00:00 AM,Queens County, Nova Scotia,52,52,51,0,0,0
+12/31/2017 12:00:00 AM,Richmond County, Nova Scotia,60,57,61,0,0,0
+12/31/2016 12:00:00 AM,Richmond County, Nova Scotia,55,75,48,0,0,0
+12/31/2015 12:00:00 AM,Richmond County, Nova Scotia,50,50,49,0,0,0
+12/31/2014 12:00:00 AM,Richmond County, Nova Scotia,54,56,53,0,0,0
+12/31/2013 12:00:00 AM,Richmond County, Nova Scotia,75,156,45,0,0,0
+12/31/2012 12:00:00 AM,Richmond County, Nova Scotia,72,48,81,0,0,0
+12/31/2011 12:00:00 AM,Richmond County, Nova Scotia,50,45,51,0,0,0
+12/31/2010 12:00:00 AM,Richmond County, Nova Scotia,49,61,45,0,0,0
+12/31/2017 12:00:00 AM,Shelburne, Nova Scotia,111,143,99,0,0,0
+12/31/2016 12:00:00 AM,Shelburne, Nova Scotia,158,219,136,0,0,0
+12/31/2015 12:00:00 AM,Shelburne, Nova Scotia,106,120,101,0,0,0
+12/31/2014 12:00:00 AM,Shelburne, Nova Scotia,112,129,106,0,0,0
+12/31/2013 12:00:00 AM,Shelburne, Nova Scotia,169,133,181,0,0,0
+12/31/2012 12:00:00 AM,Shelburne, Nova Scotia,148,204,127,0,0,0
+12/31/2011 12:00:00 AM,Shelburne, Nova Scotia,144,159,138,0,0,0
+12/31/2010 12:00:00 AM,Shelburne, Nova Scotia,134,164,123,0,0,0
+12/31/2017 12:00:00 AM,Shelburne, Nova Scotia,43,40,44,0,0,0
+12/31/2016 12:00:00 AM,Shelburne, Nova Scotia,57,67,53,0,0,0
+12/31/2015 12:00:00 AM,Shelburne, Nova Scotia,49,53,48,0,0,0
+12/31/2014 12:00:00 AM,Shelburne, Nova Scotia,47,58,42,0,0,0
+12/31/2013 12:00:00 AM,Shelburne, Nova Scotia,69,53,74,0,0,0
+12/31/2012 12:00:00 AM,Shelburne, Nova Scotia,61,67,58,0,0,0
+12/31/2011 12:00:00 AM,Shelburne, Nova Scotia,63,61,64,0,0,0
+12/31/2010 12:00:00 AM,Shelburne, Nova Scotia,64,52,69,0,0,0
+12/31/2017 12:00:00 AM,Springhill, Nova Scotia,0,0,0,0,0,0
+12/31/2016 12:00:00 AM,Springhill, Nova Scotia,0,0,0,0,0,0
+12/31/2015 12:00:00 AM,Springhill, Nova Scotia,0,0,0,0,0,0
+12/31/2014 12:00:00 AM,Springhill, Nova Scotia,103,125,95,0,0,0
+12/31/2013 12:00:00 AM,Springhill, Nova Scotia,154,239,123,0,0,0
+12/31/2012 12:00:00 AM,Springhill, Nova Scotia,139,191,120,0,0,0
+12/31/2011 12:00:00 AM,Springhill, Nova Scotia,164,300,115,0,0,0
+12/31/2010 12:00:00 AM,Springhill, Nova Scotia,127,168,111,0,0,0
+12/31/2017 12:00:00 AM,Stellarton, Nova Scotia,70,95,60,0,0,0
+12/31/2016 12:00:00 AM,Stellarton, Nova Scotia,53,70,47,0,0,0
+12/31/2015 12:00:00 AM,Stellarton, Nova Scotia,55,68,51,0,0,0
+12/31/2014 12:00:00 AM,Stellarton, Nova Scotia,61,63,61,0,0,0
+12/31/2013 12:00:00 AM,Stellarton, Nova Scotia,55,65,52,0,0,0
+12/31/2012 12:00:00 AM,Stellarton, Nova Scotia,80,54,89,0,0,0
+12/31/2011 12:00:00 AM,Stellarton, Nova Scotia,74,89,68,0,0,0
+12/31/2010 12:00:00 AM,Stellarton, Nova Scotia,70,21,88,0,0,0
+12/31/2017 12:00:00 AM,Trenton, Nova Scotia,0,0,0,0,0,0
+12/31/2016 12:00:00 AM,Trenton, Nova Scotia,0,0,0,0,0,0
+12/31/2015 12:00:00 AM,Trenton, Nova Scotia,0,0,0,0,0,0
+12/31/2014 12:00:00 AM,Trenton, Nova Scotia,0,0,0,0,0,0
+12/31/2013 12:00:00 AM,Trenton, Nova Scotia,0,0,0,0,0,0
+12/31/2012 12:00:00 AM,Trenton, Nova Scotia,0,0,0,0,0,0
+12/31/2011 12:00:00 AM,Trenton, Nova Scotia,0,0,0,0,0,0
+12/31/2010 12:00:00 AM,Trenton, Nova Scotia,28,56,17,0,0,0
+12/31/2017 12:00:00 AM,Truro, Nova Scotia,112,112,112,0,0,0
+12/31/2016 12:00:00 AM,Truro, Nova Scotia,100,96,101,0,0,0
+12/31/2015 12:00:00 AM,Truro, Nova Scotia,96,89,98,0,0,0
+12/31/2014 12:00:00 AM,Truro, Nova Scotia,115,107,117,0,0,0
+12/31/2013 12:00:00 AM,Truro, Nova Scotia,98,68,109,0,0,0
+12/31/2012 12:00:00 AM,Truro, Nova Scotia,113,93,120,0,0,0
+12/31/2011 12:00:00 AM,Truro, Nova Scotia,140,160,133,0,0,0
+12/31/2010 12:00:00 AM,Truro, Nova Scotia,165,177,161,0,0,0
+12/31/2017 12:00:00 AM,Victoria County, Nova Scotia,86,77,89,0,0,0
+12/31/2016 12:00:00 AM,Victoria County, Nova Scotia,111,146,98,0,0,0
+12/31/2015 12:00:00 AM,Victoria County, Nova Scotia,78,50,88,0,0,0
+12/31/2014 12:00:00 AM,Victoria County, Nova Scotia,120,135,114,0,0,0
+12/31/2013 12:00:00 AM,Victoria County, Nova Scotia,116,133,110,0,0,0
+12/31/2012 12:00:00 AM,Victoria County, Nova Scotia,92,62,103,0,0,0
+12/31/2011 12:00:00 AM,Victoria County, Nova Scotia,110,92,116,0,0,0
+12/31/2010 12:00:00 AM,Victoria County, Nova Scotia,108,92,114,0,0,0
+12/31/2017 12:00:00 AM,Westville, Nova Scotia,43,36,45,0,0,0
+12/31/2016 12:00:00 AM,Westville, Nova Scotia,44,46,43,0,0,0
+12/31/2015 12:00:00 AM,Westville, Nova Scotia,33,33,33,0,0,0
+12/31/2014 12:00:00 AM,Westville, Nova Scotia,41,41,41,0,0,0
+12/31/2013 12:00:00 AM,Westville, Nova Scotia,46,50,44,0,0,0
+12/31/2012 12:00:00 AM,Westville, Nova Scotia,61,55,63,0,0,0
+12/31/2011 12:00:00 AM,Westville, Nova Scotia,61,79,54,0,0,0
+12/31/2010 12:00:00 AM,Westville, Nova Scotia,65,50,72,0,0,0
+12/31/2017 12:00:00 AM,Windsor, Nova Scotia,92,125,80,0,0,0
+12/31/2016 12:00:00 AM,Windsor, Nova Scotia,99,128,88,0,0,0
+12/31/2015 12:00:00 AM,Windsor, Nova Scotia,95,107,91,0,0,0
+12/31/2014 12:00:00 AM,Windsor, Nova Scotia,123,136,117,0,0,0
+12/31/2013 12:00:00 AM,Windsor, Nova Scotia,92,71,99,0,0,0
+12/31/2012 12:00:00 AM,Windsor, Nova Scotia,135,124,140,0,0,0
+12/31/2011 12:00:00 AM,Windsor, Nova Scotia,125,93,137,0,0,0
+12/31/2010 12:00:00 AM,Windsor, Nova Scotia,118,99,125,0,0,0
+12/31/2017 12:00:00 AM,Windsor, Nova Scotia,41,44,40,0,0,0
+12/31/2016 12:00:00 AM,Windsor, Nova Scotia,42,32,45,0,0,0
+12/31/2015 12:00:00 AM,Windsor, Nova Scotia,43,55,39,0,0,0
+12/31/2014 12:00:00 AM,Windsor, Nova Scotia,45,37,48,0,0,0
+12/31/2013 12:00:00 AM,Windsor, Nova Scotia,42,35,44,0,0,0
+12/31/2012 12:00:00 AM,Windsor, Nova Scotia,52,47,54,0,0,0
+12/31/2011 12:00:00 AM,Windsor, Nova Scotia,47,42,49,0,0,0
+12/31/2010 12:00:00 AM,Windsor, Nova Scotia,46,38,49,0,0,0
+12/31/2017 12:00:00 AM,Yarmouth, Nova Scotia,111,131,103,0,0,0
+12/31/2016 12:00:00 AM,Yarmouth, Nova Scotia,136,198,114,0,0,0
+12/31/2015 12:00:00 AM,Yarmouth, Nova Scotia,156,184,145,0,0,0
+12/31/2014 12:00:00 AM,Yarmouth, Nova Scotia,120,111,123,0,0,0
+12/31/2013 12:00:00 AM,Yarmouth, Nova Scotia,131,109,139,0,0,0
+12/31/2012 12:00:00 AM,Yarmouth, Nova Scotia,135,171,122,0,0,0
+12/31/2011 12:00:00 AM,Yarmouth, Nova Scotia,150,131,157,0,0,0
+12/31/2010 12:00:00 AM,Yarmouth, Nova Scotia,137,115,145,0,0,0
+12/31/2017 12:00:00 AM,Yarmouth, Nova Scotia,42,38,43,0,0,0
+12/31/2016 12:00:00 AM,Yarmouth, Nova Scotia,44,43,45,0,0,0
+12/31/2015 12:00:00 AM,Yarmouth, Nova Scotia,52,75,44,0,0,0
+12/31/2014 12:00:00 AM,Yarmouth, Nova Scotia,35,31,37,0,0,0
+12/31/2013 12:00:00 AM,Yarmouth, Nova Scotia,52,42,56,0,0,0
+12/31/2012 12:00:00 AM,Yarmouth, Nova Scotia,52,35,59,0,0,0
+12/31/2011 12:00:00 AM,Yarmouth, Nova Scotia,51,41,55,0,0,0
+12/31/2010 12:00:00 AM,Yarmouth, Nova Scotia,44,30,50,0,0,0

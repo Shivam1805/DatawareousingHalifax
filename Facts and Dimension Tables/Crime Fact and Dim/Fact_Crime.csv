@@ -1,0 +1,450 @@
+﻿Event ID,Crime ID,City,YEAR,TOTAL CRIME SEVERITY INDEX,VIOLENT CRIME SEVERITY INDEX,NON-VIOLENT CRIME SEVERITY INDEX
+975221,2120,Halifax,2017,64,87,56
+975153,2142,Halifax,2017,64,87,56
+975047,1430,Halifax,2017,64,87,56
+975427,2142,Halifax,2017,64,87,56
+975081,1430,Halifax,2017,64,87,56
+975019,1420,Halifax,2017,64,87,56
+975259,2142,Halifax,2017,64,87,56
+975193,1430,Halifax,2017,64,87,56
+975005,1430,Halifax,2017,64,87,56
+975084,1420,Halifax,2017,64,87,56
+975046,1430,Halifax,2017,64,87,56
+975718,2142,Halifax,2017,64,87,56
+975497,1430,Halifax,2017,64,87,56
+975385,2120,Halifax,2017,64,87,56
+975245,2135,Halifax,2017,64,87,56
+975212,2142,Halifax,2017,64,87,56
+975236,2120,Halifax,2017,64,87,56
+975291,1430,Halifax,2017,64,87,56
+975428,2142,Halifax,2017,64,87,56
+975369,1430,Halifax,2017,64,87,56
+975287,1430,Halifax,2017,64,87,56
+975773,1430,Halifax,2017,64,87,56
+975327,1420,Halifax,2017,64,87,56
+975160,1460,Halifax,2017,64,87,56
+975217,2120,Halifax,2017,64,87,56
+975611,2142,Halifax,2017,64,87,56
+975570,2142,Halifax,2017,64,87,56
+975514,1430,Halifax,2017,64,87,56
+975494,1430,Halifax,2017,64,87,56
+975484,1430,Halifax,2017,64,87,56
+975403,1420,Halifax,2017,64,87,56
+975394,1430,Halifax,2017,64,87,56
+975458,2135,Halifax,2017,64,87,56
+975416,1430,Halifax,2017,64,87,56
+975402,1420,Halifax,2017,64,87,56
+975380,1430,Halifax,2017,64,87,56
+975462,2142,Halifax,2017,64,87,56
+975541,1430,Halifax,2017,64,87,56
+975525,1430,Halifax,2017,64,87,56
+975411,1430,Halifax,2017,64,87,56
+975547,2142,Halifax,2017,64,87,56
+975414,1430,Halifax,2017,64,87,56
+975397,1430,Halifax,2017,64,87,56
+975444,1430,Halifax,2017,64,87,56
+975396,1430,Halifax,2017,64,87,56
+975750,1420,Halifax,2017,64,87,56
+975660,1420,Halifax,2017,64,87,56
+975633,1430,Halifax,2017,64,87,56
+975594,1430,Halifax,2017,64,87,56
+975683,2132,Halifax,2017,64,87,56
+975607,2120,Halifax,2017,64,87,56
+975550,1430,Halifax,2017,64,87,56
+975675,1430,Halifax,2017,64,87,56
+975644,1430,Halifax,2017,64,87,56
+975639,1420,Halifax,2017,64,87,56
+975638,1430,Halifax,2017,64,87,56
+975574,2142,Halifax,2017,64,87,56
+975698,2132,Halifax,2017,64,87,56
+975593,2142,Halifax,2017,64,87,56
+975567,1430,Halifax,2017,64,87,56
+975702,2142,Halifax,2017,64,87,56
+975701,2120,Halifax,2017,64,87,56
+975590,2142,Halifax,2017,64,87,56
+975616,1430,Halifax,2017,64,87,56
+975604,2120,Halifax,2017,64,87,56
+975573,2132,Halifax,2017,64,87,56
+975562,1430,Halifax,2017,64,87,56
+975915,2142,Halifax,2017,64,87,56
+975909,2142,Halifax,2017,64,87,56
+975755,1430,Halifax,2017,64,87,56
+975686,1420,Halifax,2017,64,87,56
+975840,2120,Halifax,2017,64,87,56
+975838,2120,Halifax,2017,64,87,56
+975758,1610,Halifax,2017,64,87,56
+976028,2142,Halifax,2017,64,87,56
+975968,2142,Halifax,2017,64,87,56
+975841,1430,Halifax,2017,64,87,56
+975704,2142,Halifax,2017,64,87,56
+975749,2120,Halifax,2017,64,87,56
+976092,2120,Halifax,2017,64,87,56
+976085,1430,Halifax,2017,64,87,56
+975991,2120,Halifax,2017,64,87,56
+976066,1420,Halifax,2017,64,87,56
+976036,1610,Halifax,2017,64,87,56
+975983,2120,Halifax,2017,64,87,56
+975973,1430,Halifax,2017,64,87,56
+975920,1430,Halifax,2017,64,87,56
+975917,1430,Halifax,2017,64,87,56
+975904,2142,Halifax,2017,64,87,56
+1,2,Amherst,2017,132,118,137
+1,2,Amherst,2016,101,78,109
+1,2,Amherst,2015,93,68,102
+1,2,Amherst,2014,91,102,87
+1,2,Amherst,2013,104,102,105
+1,2,Amherst,2012,113,120,110
+1,2,Amherst,2011,107,90,113
+1,2,Amherst,2010,110,123,105
+1,2,Annapolis County,2017,58,62,56
+1,2,Annapolis County,2016,69,64,70
+1,2,Annapolis County,2015,63,54,66
+1,2,Annapolis County,2014,61,52,64
+1,2,Annapolis County,2013,74,51,82
+1,2,Annapolis County,2012,92,73,98
+1,2,Annapolis County,2011,77,60,83
+1,2,Annapolis County,2010,82,67,88
+1,2,Annapolis Royal,2017,0,0,0
+1,2,Annapolis Royal,2016,0,0,0
+1,2,Annapolis Royal,2015,0,0,0
+1,2,Annapolis Royal,2014,0,0,0
+1,2,Annapolis Royal,2013,0,0,0
+1,2,Annapolis Royal,2012,0,0,0
+1,2,Annapolis Royal,2011,0,0,0
+1,2,Annapolis Royal,2010,0,0,0
+1,2,Antigonish County,2017,43,46,43
+1,2,Antigonish County,2016,40,45,39
+1,2,Antigonish County,2015,46,47,45
+1,2,Antigonish County,2014,41,41,42
+1,2,Antigonish County,2013,40,42,40
+1,2,Antigonish County,2012,41,41,41
+1,2,Antigonish County,2011,29,16,34
+1,2,Antigonish County,2010,39,35,40
+1,2,Antigonish,2017,134,154,126
+1,2,Antigonish,2016,115,98,121
+1,2,Antigonish,2015,96,88,99
+1,2,Antigonish,2014,90,83,92
+1,2,Antigonish,2013,100,127,89
+1,2,Antigonish,2012,129,156,120
+1,2,Antigonish,2011,131,177,114
+1,2,Antigonish,2010,149,221,122
+1,2,Barrington,2017,50,61,46
+1,2,Barrington,2016,51,72,43
+1,2,Barrington,2015,37,51,32
+1,2,Barrington,2014,42,46,41
+1,2,Barrington,2013,54,51,55
+1,2,Barrington,2012,54,48,56
+1,2,Barrington,2011,59,56,60
+1,2,Barrington,2010,58,53,60
+1,2,Bridgewater,2017,55,68,50
+1,2,Bridgewater,2016,60,57,60
+1,2,Bridgewater,2015,82,114,70
+1,2,Bridgewater,2014,55,39,61
+1,2,Bridgewater,2013,71,55,77
+1,2,Bridgewater,2012,86,86,85
+1,2,Bridgewater,2011,93,86,96
+1,2,Bridgewater,2010,85,96,81
+1,2,Canadian National Railway Police,2017,0,0,0
+1,2,Canadian National Railway Police,2016,0,0,0
+1,2,Canadian National Railway Police,2015,0,0,0
+1,2,Canadian National Railway Police,2014,0,0,0
+1,2,Canadian National Railway Police,2013,0,0,0
+1,2,Canadian National Railway Police,2012,0,0,0
+1,2,Canadian National Railway Police,2011,0,0,0
+1,2,Canadian National Railway Police,2010,0,0,0
+1,2,Cape Breton Region,2017,59,66,57
+1,2,Cape Breton Region,2016,48,46,49
+1,2,Cape Breton Region,2015,61,62,61
+1,2,Cape Breton Region,2014,61,50,65
+1,2,Cape Breton Region,2013,59,49,62
+1,2,Cape Breton Region,2012,73,64,76
+1,2,Cape Breton Region,2011,65,56,68
+1,2,Cape Breton Region,2010,67,58,70
+1,2,Colchester County,2017,59,71,55
+1,2,Colchester County,2016,52,42,56
+1,2,Colchester County,2015,48,38,52
+1,2,Colchester County,2014,62,53,65
+1,2,Colchester County,2013,71,73,70
+1,2,Colchester County,2012,62,33,73
+1,2,Colchester County,2011,65,39,74
+1,2,Colchester County,2010,55,28,65
+1,2,Cumberland County,2017,60,41,66
+1,2,Cumberland County,2016,65,56,69
+1,2,Cumberland County,2015,54,44,58
+1,2,Cumberland County,2014,67,37,78
+1,2,Cumberland County,2013,52,35,58
+1,2,Cumberland County,2012,46,36,50
+1,2,Cumberland County,2011,35,21,40
+1,2,Cumberland County,2010,26,18,29
+1,2,Digby,2017,0,0,0
+1,2,Digby,2016,0,0,0
+1,2,Digby,2015,0,0,0
+1,2,Digby,2014,0,0,0
+1,2,Digby,2013,0,0,0
+1,2,Digby,2012,65,85,57
+1,2,Digby,2011,72,108,59
+1,2,Digby,2010,96,68,107
+1,2,Digby,2017,85,105,78
+1,2,Digby,2016,88,123,75
+1,2,Digby,2015,78,72,80
+1,2,Digby,2014,64,50,69
+1,2,Digby,2013,78,47,89
+1,2,Digby,2012,82,63,89
+1,2,Digby,2011,81,64,86
+1,2,Digby,2010,60,63,59
+1,2,Enfield (East Hants),2017,61,77,55
+1,2,Enfield (East Hants),2016,48,36,52
+1,2,Enfield (East Hants),2015,54,58,52
+1,2,Enfield (East Hants),2014,61,52,65
+1,2,Enfield (East Hants),2013,59,37,67
+1,2,Enfield (East Hants),2012,69,80,65
+1,2,Enfield (East Hants),2011,49,32,55
+1,2,Enfield (East Hants),2010,79,113,67
+1,2,Eskasoni,2017,228,240,224
+1,2,Eskasoni,2016,235,253,227
+1,2,Eskasoni,2015,248,352,209
+1,2,Eskasoni,2014,258,213,274
+1,2,Eskasoni,2013,310,324,305
+1,2,Eskasoni,2012,347,384,332
+1,2,Eskasoni,2011,280,303,271
+1,2,Eskasoni,2010,245,285,230
+1,2,Guysborough County,2017,112,268,55
+1,2,Guysborough County,2016,49,45,50
+1,2,Guysborough County,2015,46,37,50
+1,2,Guysborough County,2014,42,51,38
+1,2,Guysborough County,2013,55,59,53
+1,2,Guysborough County,2012,39,28,42
+1,2,Guysborough County,2011,39,45,36
+1,2,Guysborough County,2010,53,47,56
+1,2,Indian Brook,2017,327,422,293
+1,2,Indian Brook,2016,195,288,162
+1,2,Indian Brook,2015,307.41,320.52,302.01
+1,2,Indian Brook,2014,352.11,540.68,282.77
+1,2,Indian Brook,2013,493.2,616.15,447.44
+1,2,Indian Brook,2012,491,477,495
+1,2,Indian Brook,2011,487,688,413
+1,2,Indian Brook,2010,669,1141,488
+1,2,Inverness County,2017,82,65,88
+1,2,Inverness County,2016,48,54,46
+1,2,Inverness County,2015,66,48,73
+1,2,Inverness County,2014,67,59,69
+1,2,Inverness County,2013,65,67,64
+1,2,Inverness County,2012,79,53,89
+1,2,Inverness County,2011,71,40,82
+1,2,Inverness County,2010,53,70,47
+1,2,Kentville,2017,74,88,70
+1,2,Kentville,2016,94,124,83
+1,2,Kentville,2015,73,88,68
+1,2,Kentville,2014,111,128,105
+1,2,Kentville,2013,89,42,106
+1,2,Kentville,2012,100,72,110
+1,2,Kentville,2011,82,59,91
+1,2,Kentville,2010,88,65,97
+1,2,Kings County,2017,74,72,74
+1,2,Kings County,2016,68,79,64
+1,2,Kings County,2015,55,56,55
+1,2,Kings County,2014,76,69,78
+1,2,Kings County,2013,77,65,81
+1,2,Kings County,2012,93,75,100
+1,2,Kings County,2011,73,63,76
+1,2,Kings County,2010,75,59,81
+1,2,Lunenburg County,2017,46,42,47
+1,2,Lunenburg County,2016,49,38,53
+1,2,Lunenburg County,2015,52,36,57
+1,2,Lunenburg County,2014,54,49,56
+1,2,Lunenburg County,2013,58,45,63
+1,2,Lunenburg County,2012,62,53,64
+1,2,Lunenburg County,2011,63,49,68
+1,2,Lunenburg County,2010,56,57,56
+1,2,Meteghan (Clare),2017,30,25,32
+1,2,Meteghan (Clare),2016,37,33,38
+1,2,Meteghan (Clare),2015,50,30,57
+1,2,Meteghan (Clare),2014,39,27,44
+1,2,Meteghan (Clare),2013,43,32,47
+1,2,Meteghan (Clare),2012,32,18,38
+1,2,Meteghan (Clare),2011,31,25,33
+1,2,Meteghan (Clare),2010,32,30,32
+1,2,Millbrook,2017,0,0,0
+1,2,Millbrook,2016,0,0,0
+1,2,Millbrook,2015,0,0,0
+1,2,Millbrook,2014,0,0,0
+1,2,Millbrook,2013,0,0,0
+1,2,Millbrook,2012,0,0,0
+1,2,Millbrook,2011,0,0,0
+1,2,Millbrook,2010,0,0,0
+1,2,New Glasgow Region,2017,84,92,82
+1,2,New Glasgow Region,2016,84,93,81
+1,2,New Glasgow Region,2015,85,108,76
+1,2,New Glasgow Region,2014,72,80,69
+1,2,New Glasgow Region,2013,89,92,88
+1,2,New Glasgow Region,2012,95,89,97
+1,2,New Glasgow Region,2011,105,102,106
+1,2,New Glasgow Region,2010,154,158,152
+1,2,Nova Scotia,2017,66,78,61
+1,2,Nova Scotia,2016,62,71,59
+1,2,Nova Scotia,2015,63,70,60
+1,2,Nova Scotia,2014,66,67,66
+1,2,Nova Scotia,2013,70,73,69
+1,2,Nova Scotia,2012,77,78,76
+1,2,Nova Scotia,2011,79,87,76
+1,2,Nova Scotia,2010,84,85,83
+1,2,Oxford County,2017,0,0,0
+1,2,Oxford County,2016,0,0,0
+1,2,Oxford County,2015,0,0,0
+1,2,Oxford County,2014,0,0,0
+1,2,Oxford County,2013,0,0,0
+1,2,Oxford County,2012,96,133,82
+1,2,Oxford County,2011,93,66,103
+1,2,Oxford County,2010,314,165,371
+1,2,Parrsboro,2017,185,154,196
+1,2,Parrsboro,2016,131,135,129
+1,2,Parrsboro,2015,99,128,88
+1,2,Parrsboro,2014,166,166,166
+1,2,Parrsboro,2013,141,119,148
+1,2,Parrsboro,2012,117,89,127
+1,2,Parrsboro,2011,187,182,188
+1,2,Parrsboro,2010,175,115,198
+1,2,Pictou County,2017,45,43,46
+1,2,Pictou County,2016,44,54,40
+1,2,Pictou County,2015,42,48,40
+1,2,Pictou County,2014,45,40,46
+1,2,Pictou County,2013,52,44,55
+1,2,Pictou County,2012,52,31,60
+1,2,Pictou County,2011,50,61,46
+1,2,Pictou County,2010,51,45,53
+1,2,Pictou,2017,74,74,73
+1,2,Pictou,2016,81,50,91
+1,2,Pictou,2015,65,87,56
+1,2,Pictou,2014,90,70,97
+1,2,Pictou,2013,100,79,107
+1,2,Pictou,2012,84,102,77
+1,2,Pictou,2011,92,106,87
+1,2,Pictou,2010,95,66,106
+1,2,Port Hawkesbury,2017,0,0,0
+1,2,Port Hawkesbury,2016,0,0,0
+1,2,Port Hawkesbury,2015,0,0,0
+1,2,Port Hawkesbury,2014,0,0,0
+1,2,Port Hawkesbury,2013,0,0,0
+1,2,Port Hawkesbury,2012,75,129,55
+1,2,Port Hawkesbury,2011,96,158,73
+1,2,Port Hawkesbury,2010,139,114,148
+1,2,Port of Halifax,2017,0,0,0
+1,2,Port of Halifax,2016,0,0,0
+1,2,Port of Halifax,2015,0,0,0
+1,2,Port of Halifax,2014,0,0,0
+1,2,Port of Halifax,2013,0,0,0
+1,2,Port of Halifax,2012,0,0,0
+1,2,Port of Halifax,2011,0,0,0
+1,2,Port of Halifax,2010,0,0,0
+1,2,Queens County,2017,59,49,63
+1,2,Queens County,2016,52,56,51
+1,2,Queens County,2015,61,47,66
+1,2,Queens County,2014,64,53,68
+1,2,Queens County,2013,71,62,75
+1,2,Queens County,2012,74,52,82
+1,2,Queens County,2011,70,106,56
+1,2,Queens County,2010,52,52,51
+1,2,Richmond County,2017,60,57,61
+1,2,Richmond County,2016,55,75,48
+1,2,Richmond County,2015,50,50,49
+1,2,Richmond County,2014,54,56,53
+1,2,Richmond County,2013,75,156,45
+1,2,Richmond County,2012,72,48,81
+1,2,Richmond County,2011,50,45,51
+1,2,Richmond County,2010,49,61,45
+1,2,Shelburne,2017,111,143,99
+1,2,Shelburne,2016,158,219,136
+1,2,Shelburne,2015,106,120,101
+1,2,Shelburne,2014,112,129,106
+1,2,Shelburne,2013,169,133,181
+1,2,Shelburne,2012,148,204,127
+1,2,Shelburne,2011,144,159,138
+1,2,Shelburne,2010,134,164,123
+1,2,Shelburne,2017,43,40,44
+1,2,Shelburne,2016,57,67,53
+1,2,Shelburne,2015,49,53,48
+1,2,Shelburne,2014,47,58,42
+1,2,Shelburne,2013,69,53,74
+1,2,Shelburne,2012,61,67,58
+1,2,Shelburne,2011,63,61,64
+1,2,Shelburne,2010,64,52,69
+1,2,Springhill,2017,0,0,0
+1,2,Springhill,2016,0,0,0
+1,2,Springhill,2015,0,0,0
+1,2,Springhill,2014,103,125,95
+1,2,Springhill,2013,154,239,123
+1,2,Springhill,2012,139,191,120
+1,2,Springhill,2011,164,300,115
+1,2,Springhill,2010,127,168,111
+1,2,Stellarton,2017,70,95,60
+1,2,Stellarton,2016,53,70,47
+1,2,Stellarton,2015,55,68,51
+1,2,Stellarton,2014,61,63,61
+1,2,Stellarton,2013,55,65,52
+1,2,Stellarton,2012,80,54,89
+1,2,Stellarton,2011,74,89,68
+1,2,Stellarton,2010,70,21,88
+1,2,Trenton,2017,0,0,0
+1,2,Trenton,2016,0,0,0
+1,2,Trenton,2015,0,0,0
+1,2,Trenton,2014,0,0,0
+1,2,Trenton,2013,0,0,0
+1,2,Trenton,2012,0,0,0
+1,2,Trenton,2011,0,0,0
+1,2,Trenton,2010,28,56,17
+1,2,Truro,2017,112,112,112
+1,2,Truro,2016,100,96,101
+1,2,Truro,2015,96,89,98
+1,2,Truro,2014,115,107,117
+1,2,Truro,2013,98,68,109
+1,2,Truro,2012,113,93,120
+1,2,Truro,2011,140,160,133
+1,2,Truro,2010,165,177,161
+1,2,Victoria County,2017,86,77,89
+1,2,Victoria County,2016,111,146,98
+1,2,Victoria County,2015,78,50,88
+1,2,Victoria County,2014,120,135,114
+1,2,Victoria County,2013,116,133,110
+1,2,Victoria County,2012,92,62,103
+1,2,Victoria County,2011,110,92,116
+1,2,Victoria County,2010,108,92,114
+1,2,Westville,2017,43,36,45
+1,2,Westville,2016,44,46,43
+1,2,Westville,2015,33,33,33
+1,2,Westville,2014,41,41,41
+1,2,Westville,2013,46,50,44
+1,2,Westville,2012,61,55,63
+1,2,Westville,2011,61,79,54
+1,2,Westville,2010,65,50,72
+1,2,Windsor,2017,92,125,80
+1,2,Windsor,2016,99,128,88
+1,2,Windsor,2015,95,107,91
+1,2,Windsor,2014,123,136,117
+1,2,Windsor,2013,92,71,99
+1,2,Windsor,2012,135,124,140
+1,2,Windsor,2011,125,93,137
+1,2,Windsor,2010,118,99,125
+1,2,Windsor,2017,41,44,40
+1,2,Windsor,2016,42,32,45
+1,2,Windsor,2015,43,55,39
+1,2,Windsor,2014,45,37,48
+1,2,Windsor,2013,42,35,44
+1,2,Windsor,2012,52,47,54
+1,2,Windsor,2011,47,42,49
+1,2,Windsor,2010,46,38,49
+1,2,Yarmouth,2017,111,131,103
+1,2,Yarmouth,2016,136,198,114
+1,2,Yarmouth,2015,156,184,145
+1,2,Yarmouth,2014,120,111,123
+1,2,Yarmouth,2013,131,109,139
+1,2,Yarmouth,2012,135,171,122
+1,2,Yarmouth,2011,150,131,157
+1,2,Yarmouth,2010,137,115,145
+1,2,Yarmouth,2017,42,38,43
+1,2,Yarmouth,2016,44,43,45
+1,2,Yarmouth,2015,52,75,44
+1,2,Yarmouth,2014,35,31,37
+1,2,Yarmouth,2013,52,42,56
+1,2,Yarmouth,2012,52,35,59
+1,2,Yarmouth,2011,51,41,55
+1,2,Yarmouth,2010,44,30,50
